@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: jun.zhang.can@gmail.com
   phone: (306) 251-2898
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: #America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
