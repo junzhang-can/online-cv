@@ -69,14 +69,17 @@ career-profile:
     contribute hands-on support during a Summer 2026 co-op placement. Dedicated to 
     driving value and advancing organizational productivity.
 
+
 oss:
   title: HIGHTLIGHTS OF QUALIFICATIONS
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
+  - title: Automotive Diagnostics & Repair
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Diagnosed and repaired engines, electrical, and braking systems in 
+    Fanshawe’s Motive Power Technician - Automotive (Co-op) program, using 
+    precision measurement and shop equipment."
 
   - title: Atom
     link: "#"
@@ -85,6 +88,7 @@ oss:
   - title: Delta
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 education:
   title: Education
