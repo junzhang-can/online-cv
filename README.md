@@ -2,6 +2,15 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+# 军备注
+> * Updated on 20260304 <br>
+> * 正文内容修改: /_data/data.yml <br>
+> * https://junzhang-can.github.io/online-cv/ <br>
+> * 简历主页布局修改: /index.hmtl. 如果要增加项, 可从/_includes/ 里查看添加 <br>
+> * Hightlight of Qualifications 的格式见 /_includes/oss-contributions.html <br>
+> 
+
+
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
