@@ -49,15 +49,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Running
       link:
 
 
-    - item: Snowboarding
+    - item: Reading
       link:
 
 
-    - item: Cooking
+    - item: Computers
       link:
 
 
@@ -88,68 +88,48 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Uber Driver 
+    time: March 2024 – June 2025
+    company: #Self-employment
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        - Completed 4,244 Uber trips over 15 months with zero accidents or traffic violations
+        - Earned 2,000+ five-star reviews, maintaining a 5/5-star rating
+        - Demonstrated strong driving skills, especially in harsh winter conditions
+        - Showcased excellent safety awareness and customer service
+        - Utilized effective communication with diverse customers
+  - role: Painting Line Helper
+    time: August 2024 – February 2025
+    company: CNH Industrial Saskatoon, SK
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Conducted daily safety inspections to ensure compliance and workplace safety
+        - Reviewed and managed parts loading/unloading schedules for efficient operations
+        - Prepared parts and carts for streamlined loading/unloading processes
+        - Executed loading and unloading of parts in a fast-paced environment
+        - Collaborated effectively with welders, forklift drivers and assemblers to coordinate tasks
+        - Maintained injury-free record and consistently met task deadlines
+  - role: Landscape Architect
+    time: September 2016 – January 2022
+    company: Times China, Guangzhou, China
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+        - Completed eight landscape projects annually using AutoCAD, creating master plans and detailed technical drawings, earning high customer praise.
+        - Developed an AutoCAD toolset with Visual Lisp to streamline repetitive tasks and enhance efficiency.
+        - Evaluated technical drawings and proposed improvements to optimize design outcomes.
+        - Led a team of five landscape designers, managing schedules, ensuring design quality, and fostering team collaboration.
+        - Received annual Excellent Leadership Award three times for outstanding team management.
+        - Facilitated the adoption of ISO 9001 Quality Management System to improve company operations.
+        
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Class G Driver’s Licence (Full), Ontario 
+    start: 2022
+    end: Present
+    organization: #Microsoft
+    credentialid: #111-222
+    credentialurl: #www.google.com
+    credentialname: #Google
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      
   - name: Git learning
     start: 2019
     end:
