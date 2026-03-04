@@ -148,7 +148,7 @@ certifications:
     credentialname: #Github
     details: |
 
-projects:#
+projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -173,7 +173,7 @@ projects:#
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:#
+oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -190,7 +190,7 @@ oss:#
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:#
+publications:
   title: Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
@@ -212,7 +212,7 @@ publications:#
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:#
+recommendations:
   title: Recommendations
   list:
   - person: Yareli Perez
