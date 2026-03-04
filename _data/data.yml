@@ -130,8 +130,8 @@ certifications:
     credentialname: #Google
     details: |
       
-  - name: Git learning
-    start: 2019
+  - name: Large Truck Driver’s Licence, China
+    start: Valid since 2002 with clean record
     end:
     organization: Microsoft
     credentialid: 111-222
