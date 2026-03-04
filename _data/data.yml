@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Jun Zhang
   tagline: Co-op Student at Fanshawe College
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: #profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: jun.zhang.can@gmail.com
@@ -79,17 +79,11 @@ education:
         - GPA: 4.09 / 4.20 (Dean's Honour Roll)
         - Theory and hand-on lab: Internal Combustion Engines, Automotive Electrical Systems, Braking and Suspension, Precision Measurement, etc.
         - Skills Gained: Diagnostic troubleshooting, vehicle repair techniques, use of shop equipment
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Bachelor of Landscape Architecture
+    university: Hunan Agriculture University, Changsha, China
+    time: September 1998 - June 2002
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      
 
 experiences:
   title: Experiences
