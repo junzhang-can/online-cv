@@ -17,15 +17,15 @@ sidebar:
   phone: (306) 251-2898
   timezone: #America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: jun-zhang-can
+  xing: #alandoe
+  github: #jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: #'@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: #'@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,13 +38,13 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Proficient
+
+    - idiom: Chinese (Mandarin)
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Chinese (Cantonese)
+      level: Intermediate
 
   interests:
     title: Interests
