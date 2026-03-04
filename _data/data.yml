@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jun Zhang
@@ -71,17 +71,14 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Student of Motive Power Technician - Automotive (Co-op)
+    university: Fanshawe College, London, ON
+    time: September, 2025 - Present
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Currently in semester 2
+        - GPA: 4.09 / 4.20 (Dean's Honour Roll)
+        - Theory and hand-on lab: Internal Combustion Engines, Automotive Electrical Systems, Braking and Suspension, Precision Measurement, etc.
+        - Skills Gained: Diagnostic troubleshooting, vehicle repair techniques, use of shop equipment
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
